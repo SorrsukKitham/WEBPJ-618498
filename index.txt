@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NiceCasino888</title>
+</head>
+<body>
+</h1>
+
+<h1>Casino Web no.1 from loei</h1>
+<h2>most games & extra jackpot</h2>
+<p>This is paragraph</p>
+<p><font color="red">Money is everything.</font></p>
+<img src="https://www.matichon.co.th/wp-content/uploads/2017/08/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%99.jpg"></img>
+<a href="https://www.facebook.com/people/%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%87-%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%A5/pfbid0HotdhyXrWwkDp2G2RoMGz7tYJu8KUGQZKeE17bLrcfmB5QZJoHdA148RW3KvRyC9l/"></a>.
+
+</body>
+</html>
